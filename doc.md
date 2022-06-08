@@ -19,9 +19,4 @@
 *  _Axios_ for handling api requests in Mobile app
 *  _Redux_ for handling app info transformations
 *  _GeoLib_ for gathering location
-* birkaç tane daha var
-
-# DIAGRAMS
-
-## UML diagrams
-
+*  _Expo-Image-Picker_ for picking images
