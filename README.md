@@ -19,10 +19,10 @@
 *	FR-1: Upload location
 *	FR-2: Send a message according to type of emergency (if user want to send voice, photograph or video but text must be send)
 *	FR-3: Customer:
-*	FR-3.1: Report the situation and send location automatically.
+*	*	FR-3.1: Report the situation and send location automatically.
 *	FR-4: Call Center:
-*	FR-4.1: Retrieve location and display it.
-*	FR-4.2: Depending on the situation call center will answer civilians back.
+*	*	FR-4.1: Retrieve location and display it.
+*	* FR-4.2: Depending on the situation call center will answer civilians back.
 ### Server
 *	FR-1: Users will be sign up with their e-devlet account
 *	FR-2: Fake reports will be announced to police department automatically
