@@ -9,10 +9,25 @@
 # EMERGENCY APPLICATION
 ## OVERVIEW
 
-* **Goal:** Have people comfortable to make a request to '_Emergency Services_'. In this case we have seen that in some times peoples having difficulties to explain the situation which they facing. Our ultimate aim is to eliminate this problem with increase the ability of uploading resource such as image, video or voice. As i thought when a woman walks down then street and some man follows her, she probably be afraid of that. In this situation she may have to call the police, but without the other man noticing.
+* **Goal:** Our goal is have people comfortable to make a request to '_Emergency Services_'. In this case we have seen that in some times peoples having difficulties to explain the situation which they facing. Our ultimate aim is to eliminate this problem with increase the ability of uploading resource such as image, video or voice. As i thought when a woman walks down then street and some man follows her, she probably be afraid of that. In this situation she may have to call the police, but without the other man noticing.
 *  **Owner:** Melih Sahtiyan
 * **Designer:** Melih Sahtiyan
 * **Developer:** Melih Sahtiyan
+
+## Requirements 
+### Client
+*	FR-1: Upload location
+*	FR-2: Send a message according to type of emergency (if user want to send voice, photograph or video but text must be send)
+*	FR-3: Customer:
+*	FR-3.1: Report the situation and send location automatically.
+*	FR-4: Call Center:
+*	FR-4.1: Retrieve location and display it.
+*	FR-4.2: Depending on the situation call center will answer civilians back.
+### Server
+*	FR-1: Users will be sign up with their e-devlet account
+*	FR-2: Fake reports will be announced to police department automatically
+
+
 
 ## Development
 * **_Api:_** .net Framework
