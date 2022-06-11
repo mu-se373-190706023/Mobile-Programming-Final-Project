@@ -28,3 +28,13 @@
 *  _Redux_ for handling app info transformations
 *  _GeoLib_ for gathering location
 *  _Expo-Image-Picker_ for picking images
+
+## Diagrams
+### Activity Diagram
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/mobile-programming%20Diagrams/Activity%20diagram.png)
+### Communication Diagram
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/mobile-programming%20Diagrams/Communication%20diagram.png)
+### Sequence Diagram
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/mobile-programming%20Diagrams/Sequence%20diagram%20(1).png)
+### Database Diagram
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/mobile-programming%20Diagrams/database%20Diagram.jpg)
