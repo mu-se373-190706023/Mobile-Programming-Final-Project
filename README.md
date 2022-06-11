@@ -9,7 +9,7 @@
 # EMERGENCY APPLICATION
 ## OVERVIEW
 
-* **Goal:** Our goal is enhence people comfortably making requests to '_Emergency Services_'. In this case we have seen that in some times peoples having difficulties to explain the situation which they facing. Our ultimate aim is to eliminate this problem with enhence the ability of uploading resource such as image, video or voice. As i thought when a woman walks down the street and some man follows her, she would probably be afraid of that. In this situation she may have to call the police, but without the other man noticing.
+* **Goal:** Our goal is develop an app to make people comfortably making requests to '_Emergency Services_'. In this case we have seen that in some times peoples having difficulties to explain the situation which they facing. Our ultimate aim is to eliminate this problem with enhence the ability of uploading resource such as image, video or voice. As i thought when a woman walks down the street and some man follows her, she would probably be afraid of that. In this situation she may have to call the police, but without the other man noticing.
 *  **Owner:** Melih Sahtiyan
 * **Designer:** Melih Sahtiyan
 * **Developer:** Melih Sahtiyan
