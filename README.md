@@ -61,7 +61,7 @@
 ![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294794.png)
 
 ### Register Screen (with inputs)
-![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294794.png)
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294839.png)
 
 ### Main Page
 ![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294802.png)
