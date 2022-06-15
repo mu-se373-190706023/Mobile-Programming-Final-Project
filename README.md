@@ -53,3 +53,21 @@
 ![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/mobile-programming%20Diagrams/Sequence%20diagram%20(1).png)
 ### Database Diagram
 ![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/mobile-programming%20Diagrams/database%20Diagram.jpg)
+
+## Input-Outputs
+### Login Screen
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294774.png)
+* inputs
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294794.png)
+
+### Register Screen (with inputs)
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294794.png)
+
+### Main Page
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294802.png)
+
+### Report Screen (with inputs)
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294854.png)
+
+### Camera Inputs
+![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294857.png)
