@@ -72,5 +72,5 @@
 ### Camera Inputs
 ![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot_1655294857.png)
 
-### Web outpu screen
+### Web output screen
 ![](https://github.com/mu-se373-190706023/Mobile-Programming-Final-Project/blob/main/input-outputs/Screenshot%202022-06-15%20at%2015-31-33%20React%20App.png)
